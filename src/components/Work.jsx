@@ -14,49 +14,34 @@ function Work() {
           <article className="work-content ml-6 mb-8">
             <h3 className="work-heading text-2xl font-bold text-gray-300 mb-3">
               <span className="border-l-4 border-orange-700 pl-2 mb-1 block">
-                Software Engineer - MERN Stack
+                Senior Software Engineer
               </span>
               <span className="block text-sm pl-3">
-                ( OCloud Solutions | Oct 2022 - Present )
+                ( OCloud Solutions | May 2022 - Present, Pakistan )
               </span>
             </h3>
 
             <ul className="text-1xl list-disc ml-6 max-w-3xl">
               <li>
-                Developed MERN stack applications, dedicating 40 hours weekly
-                for on-time project delivery with code quality.
+                Architected and developed scalable web applications using TypeScript, Node.js, and PostgreSQL, improving performance by 30%.
               </li>
               <li>
-                Created responsive UIs using React, Next.js, and ensured
-                pixel-perfect designs across devices.
+                Designed and implemented RESTful and GraphQL APIs, enhancing data retrieval efficiency by 25%.
               </li>
               <li>
-                Practiced Test-Driven Development (TDD) for bug reduction and
-                code robustness.
+                Collaborated with cross-functional teams to integrate user-facing elements with server-side logic using React and Node.js.
               </li>
               <li>
-                Utilized AWS Amplify - React for streamlined cloud deployment of
-                applications.
+                Led the migration of a monolithic application to a microservices architecture within an AWS ecosystem, reducing deployment time by 40%.
               </li>
               <li>
-                Reviewed code collaboratively, providing valuable feedback and
-                promoting a teamwork environment.
+                Worked closely with product managers to create design documents and estimates, ensuring on-time and within-budget delivery.
               </li>
               <li>
-                Extended skills to React Native, contributing to cross-platform
-                mobile app development.
+                Contributed to the implementation of vector databases and LLM APIs, enabling advanced data processing capabilities.
               </li>
               <li>
-                Translated design mockups into functional user interfaces in
-                collaboration with UI/UX designers.
-              </li>
-              <li>
-                Conducted thorough testing, debugging, and adopted new
-                technologies for continuous enhancement.
-              </li>
-              <li>
-                Resolved complex challenges proactively in a dynamic development
-                setting.
+                Utilized Agile methodologies to manage project timelines, sprints, and deliverables, consistently meeting client expectations.
               </li>
             </ul>
           </article>
@@ -64,42 +49,28 @@ function Work() {
           <article className="work-content ml-6 mb-8">
             <h3 className="work-heading text-2xl font-bold text-gray-300 mb-3">
               <span className="border-l-4 border-orange-700 pl-2 mb-1 block">
-                Software Engineer - MERN / MEVN Stack
+                Software Engineer / Full Stack Developer
               </span>
               <span className="block text-sm pl-3">
-                ( EagleSolutions | Oct 2021 - Sep 2022 )
+                ( Onsets | February 2020 - April 2022, Pakistan )
               </span>
             </h3>
 
             <ul className="text-1xl list-disc ml-6 max-w-3xl">
               <li>
-                Developed MERN / MEVN stack applications, committing 40 hours
-                weekly for seamless project execution, bug resolution, and
-                ongoing maintenance.
+                Developed dynamic, responsive front-end applications using React, TypeScript, HTML, and CSS, achieving a 20% increase in user engagement.
               </li>
               <li>
-                Ensured pixel-perfect designs, guaranteeing optimal user
-                experiences across devices and screen sizes.
+                Integrated RESTful APIs and GraphQL endpoints, ensuring seamless data flow between front-end and back-end systems.
               </li>
               <li>
-                Quickly addressed code issues to enhance application performance
-                and functionality.
+                Collaborated with designers and backend developers to optimize application performance and user experience.
               </li>
               <li>
-                Constructed new applications from the ground up in response to
-                specific project requirements.
+                Implemented automated testing for UI components, reducing the bug rate by 15%.
               </li>
               <li>
-                Collaborated closely with UI/UX teams to translate designs into
-                functional, visually appealing interfaces.
-              </li>
-              <li>
-                Maintained a proactive approach in troubleshooting and resolving
-                challenges, maintaining application integrity.
-              </li>
-              <li>
-                Skillfully combined creativity and technical acumen to deliver
-                high-quality applications within specified timelines.
+                Managed version control using Git and conducted code reviews to maintain code quality standards.
               </li>
             </ul>
           </article>
